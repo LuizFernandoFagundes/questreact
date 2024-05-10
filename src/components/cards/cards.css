@@ -3,9 +3,9 @@
     text-align: center;
     padding: 20px;
     margin: 20px;
-    background-color: #37BED1;
+    background-color: #103649;
     border-radius: 10px;
-    color: #FFE9AD;
+    color: #E0B87B;
     text-transform: uppercase;
 }
 .btn{
@@ -13,5 +13,5 @@
     border-radius: 10px;
     padding: 10px;
     color: #303030;
-    background-color: #F8F4BF;
+    background-color: #E0B87B;
 }

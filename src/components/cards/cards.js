@@ -17,7 +17,7 @@ const Cards =({name,label,text,color})=>{
 
 Cards.defaultProps={
    name:"Quest React",
-   color:"#FFE9AD",
+   color:"#E0B87B",
    label:"Digite um texto na propriedade label, para visualizá-lo aqui no alerta",
    text:"Clique aqui"
 }
