@@ -5,7 +5,7 @@ import Cards from './components/cards/cards';
 function App() {
   return (
     <>
-    <Cards name="Fernando" text="Oi,meu nome é Fernando" label="baixar cv" color="#303030"/>
+    <Cards name="Fernando" text="Visualizar label" label="Primeira quest de react" color="#303030"/>
     
     <Cards/>
     </>

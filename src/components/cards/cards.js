@@ -2,7 +2,7 @@ import "./cards.css"
 import Card from "../card/card"
 
 const sayhello=(label)=>{
-    alert(`a label desse botão é : ${label}`);
+    alert(`A label desse botão é : ${label}`);
 
 }
 const Cards =({name,label,text,color})=>{
@@ -18,7 +18,7 @@ const Cards =({name,label,text,color})=>{
 Cards.defaultProps={
    name:"Quest React",
    color:"#FFE9AD",
-   label:"digite um texto na label, para velo aqui no alert",
+   label:"Digite um texto na propriedade label, para visualizá-lo aqui no alerta",
    text:"Clique aqui"
 }
 
