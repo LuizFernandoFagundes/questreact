@@ -1,0 +1,17 @@
+.cards{
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    background-color: #37BED1;
+    border-radius: 10px;
+    color: #FFE9AD;
+    text-transform: uppercase;
+}
+.btn{
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: #303030;
+    background-color: #F8F4BF;
+}
